@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21678"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ScoreView" customModule="hdgeoguess" customModuleProvider="target">
+            <connections>
+                <outlet property="bgImgView" destination="wKb-i0-k85" id="Qkq-vg-Aeb"/>
+                <outlet property="btnNext" destination="ofa-Qn-zkE" id="7eC-oA-jH3"/>
+                <outlet property="lbScore" destination="jGQ-XB-m3x" id="xgE-xn-A3l"/>
+                <outlet property="lbTitleScore" destination="IvH-hJ-Ar0" id="hrT-uL-YLj"/>
+                <outlet property="resultView" destination="rAX-Z7-uj2" id="ck1-g9-xOW"/>
+                <outlet property="ringProgressView" destination="1t9-aR-91Z" id="GdA-En-nOS"/>
+                <outlet property="view" destination="iN0-l3-epB" id="Y1Y-6G-9tU"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="808" height="419"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rAX-Z7-uj2">
+                    <rect key="frame" x="0.0" y="0.0" width="808" height="419"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bg_green_purple.png" translatesAutoresizingMaskIntoConstraints="NO" id="wKb-i0-k85">
+                            <rect key="frame" x="0.0" y="0.0" width="808" height="419"/>
+                        </imageView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1t9-aR-91Z" customClass="RingProgressView">
+                            <rect key="frame" x="324" y="90" width="160" height="160"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="1t9-aR-91Z" secondAttribute="height" id="7Wd-Un-rc1"/>
+                                <constraint firstAttribute="width" constant="160" id="X8l-y3-MYG"/>
+                            </constraints>
+                        </view>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="100" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="13" translatesAutoresizingMaskIntoConstraints="NO" id="jGQ-XB-m3x" customClass="UICountingLabel">
+                            <rect key="frame" x="324" y="90" width="160" height="160"/>
+                            <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="25"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="YOUR SCORE" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IvH-hJ-Ar0">
+                            <rect key="frame" x="12" y="266" width="784" height="40"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="ihv-1n-O4P"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ofa-Qn-zkE">
+                            <rect key="frame" x="678" y="349" width="100" height="40"/>
+                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.14999999999999999" colorSpace="custom" customColorSpace="displayP3"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="JWA-JK-6ga"/>
+                                <constraint firstAttribute="width" constant="100" id="gie-qp-VyY"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="italicSystem" pointSize="21"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="Next">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                    <integer key="value" value="8"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                            <connections>
+                                <action selector="touchOnNext:" destination="-1" eventType="touchUpInside" id="TZC-nz-vtF"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lfe-7a-GaN">
+                            <rect key="frame" x="490" y="349" width="180" height="40"/>
+                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.14999999999999999" colorSpace="custom" customColorSpace="displayP3"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="180" id="XNK-kD-jye"/>
+                                <constraint firstAttribute="height" constant="40" id="lr6-EJ-KgI"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="italicSystem" pointSize="21"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="Quit Game">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                    <integer key="value" value="8"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                            <connections>
+                                <action selector="touchOnHome:" destination="-1" eventType="touchUpInside" id="ehd-3c-osa"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="IvH-hJ-Ar0" secondAttribute="trailing" constant="12" id="11z-20-GPA"/>
+                        <constraint firstAttribute="bottom" secondItem="wKb-i0-k85" secondAttribute="bottom" id="AJM-8M-Uuk"/>
+                        <constraint firstItem="jGQ-XB-m3x" firstAttribute="width" secondItem="1t9-aR-91Z" secondAttribute="width" id="Abe-Jh-EDX"/>
+                        <constraint firstItem="IvH-hJ-Ar0" firstAttribute="leading" secondItem="rAX-Z7-uj2" secondAttribute="leading" constant="12" id="CD9-nk-WgH"/>
+                        <constraint firstItem="lfe-7a-GaN" firstAttribute="bottom" secondItem="ofa-Qn-zkE" secondAttribute="bottom" id="CJd-Ir-xMF"/>
+                        <constraint firstAttribute="trailing" secondItem="ofa-Qn-zkE" secondAttribute="trailing" constant="30" id="FEX-e0-3hC"/>
+                        <constraint firstItem="jGQ-XB-m3x" firstAttribute="height" secondItem="1t9-aR-91Z" secondAttribute="height" id="FTD-Dw-ug2"/>
+                        <constraint firstItem="jGQ-XB-m3x" firstAttribute="top" secondItem="1t9-aR-91Z" secondAttribute="top" id="GXc-Q1-nrW"/>
+                        <constraint firstItem="IvH-hJ-Ar0" firstAttribute="top" secondItem="1t9-aR-91Z" secondAttribute="bottom" constant="16" id="LEF-ys-nTU"/>
+                        <constraint firstAttribute="trailing" secondItem="wKb-i0-k85" secondAttribute="trailing" id="LI1-ha-VTM"/>
+                        <constraint firstAttribute="bottom" secondItem="ofa-Qn-zkE" secondAttribute="bottom" constant="30" id="Qe4-Fm-7je"/>
+                        <constraint firstItem="1t9-aR-91Z" firstAttribute="top" secondItem="rAX-Z7-uj2" secondAttribute="top" constant="90" id="SHp-Iy-djn"/>
+                        <constraint firstItem="wKb-i0-k85" firstAttribute="leading" secondItem="rAX-Z7-uj2" secondAttribute="leading" id="Ti3-gY-bO8"/>
+                        <constraint firstItem="1t9-aR-91Z" firstAttribute="centerX" secondItem="rAX-Z7-uj2" secondAttribute="centerX" id="WIr-k6-Pxt"/>
+                        <constraint firstItem="jGQ-XB-m3x" firstAttribute="leading" secondItem="1t9-aR-91Z" secondAttribute="leading" id="XMK-AL-oLv"/>
+                        <constraint firstItem="wKb-i0-k85" firstAttribute="top" secondItem="rAX-Z7-uj2" secondAttribute="top" id="hI8-ut-ahV"/>
+                        <constraint firstItem="ofa-Qn-zkE" firstAttribute="leading" secondItem="lfe-7a-GaN" secondAttribute="trailing" constant="8" id="xo9-F1-0Fi"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="rAX-Z7-uj2" secondAttribute="bottom" id="0oX-lU-r3x"/>
+                <constraint firstItem="rAX-Z7-uj2" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="K0k-to-m4x"/>
+                <constraint firstItem="rAX-Z7-uj2" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="XlH-WB-dT4"/>
+                <constraint firstAttribute="trailing" secondItem="rAX-Z7-uj2" secondAttribute="trailing" id="rVg-rM-6zt"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="258.01526717557249" y="-159.50704225352112"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="bg_green_purple.png" width="788" height="443"/>
+    </resources>
+</document>

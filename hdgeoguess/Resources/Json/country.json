@@ -1,0 +1,3921 @@
+[{
+    "id": "52d15ff6850ffb3b847cb3b4",
+    "name": "World",
+    "slug": "world",
+    "description": "Embark on a journey that takes you all over the world. From the most desolate roads in Australia to the busy, bustling streets of New York City.",
+    "url": "/maps/world",
+    "playUrl": "/world/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/3f950f0318b9086b1b9ec591206dfdd8.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -54.853378,
+            "lng": -159.778792
+        },
+        "max": {
+            "lat": 78.655743,
+            "lng": 178.4508514404297
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "1M+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:29.7880000Z",
+    "numFinishedGames": 114325435,
+    "likedByUser": null,
+    "averageScore": 10306,
+    "avatar": {
+        "background": "day",
+        "decoration": "palmtrees",
+        "ground": "blue",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": false,
+    "maxErrorDistance": 14916862,
+    "likes": 373129,
+    "locationSelectionMode": 0
+}, {
+    "id": "53a18713aa05a6288c97c9a1",
+    "name": "Famous Places",
+    "slug": "famous-places",
+    "description": "Spectacular natural wonders and astonishing man-made structures. The list of great landmarks are often limited to seven, but the world is filled with wonders. How many can you recognize?",
+    "url": "/maps/famous-places",
+    "playUrl": "/famous-places/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/4f62ae62b9e18d8dd6ccc368d15c79bd.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -54.846696,
+            "lng": -123.115017286215
+        },
+        "max": {
+            "lat": 71.1709290207909,
+            "lng": 175.6810699
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2018-12-30T00:00:00.0000000Z",
+    "updatedAt": "2023-05-11T13:31:38.3290000Z",
+    "numFinishedGames": 36290416,
+    "likedByUser": null,
+    "averageScore": 11603,
+    "avatar": {
+        "background": "night",
+        "decoration": "smalltrees",
+        "ground": "green",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": false,
+    "maxErrorDistance": 14809432,
+    "likes": 122396,
+    "locationSelectionMode": 0
+}, {
+    "id": "52d1333c850ffb64d0e7b5cb",
+    "name": "United States",
+    "slug": "usa",
+    "description": "Travel across the vast spaces of the land of the free and home of the brave. From the hot deserts of the south to the great forests of the north, from the Atlantic to the Pacific. 50 states of challenging locations awaits you!",
+    "url": "/maps/usa",
+    "playUrl": "/usa/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/d908c91fbd846ad9181d0083eac1e236.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 19.06018829345703,
+            "lng": -165.384288
+        },
+        "max": {
+            "lat": 70.242762,
+            "lng": -67.00384521484375
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "1M+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:30.5400000Z",
+    "numFinishedGames": 12428278,
+    "likedByUser": null,
+    "averageScore": 11626,
+    "avatar": {
+        "background": "sunrise",
+        "decoration": "cactus",
+        "ground": "green",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 8326737,
+    "likes": 67161,
+    "locationSelectionMode": 0
+}, {
+    "id": "53fb739f7296480ba4ff6727",
+    "name": "European Union",
+    "slug": "european-union",
+    "description": "One Union, 27 countries, 500 million inhabitants: how well do you know your EU? From the emerald isle to the Black Sea, from the land of a thousand lakes to the jewel of the Mediterranean, challenge yourself and your friends to expand your horizons and further discover the beauty of Europe.",
+    "url": "/maps/european-union",
+    "playUrl": "/european-union/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/b33685fa310e7213ac9c2f6e2b4e249f.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 35.110788018307,
+            "lng": -10.2533150396478
+        },
+        "max": {
+            "lat": 67.8397416069824,
+            "lng": 30.5763289599693
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "1000+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2016-01-04T00:00:00.0000000Z",
+    "updatedAt": "2023-05-11T14:21:25.9780000Z",
+    "numFinishedGames": 5577087,
+    "likedByUser": null,
+    "averageScore": 15247,
+    "avatar": {
+        "background": "evening",
+        "decoration": "smalltrees",
+        "ground": "blue",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": false,
+    "maxErrorDistance": 4446743,
+    "likes": 30667,
+    "locationSelectionMode": 0
+}, {
+    "id": "52d176a6850ffb8d003b93e1",
+    "name": "Japan",
+    "slug": "japan",
+    "description": "No other country in the world is possibly as associated with both history and future at the same time as Japan. Samurais, Godzilla, manga and cutting edge robotics. The land of the rising sun and pokémon. On a clear day Mount Fuji can be seen from the capital Tokyo - perhaps that will aid you in your journey?",
+    "url": "/maps/japan",
+    "playUrl": "/japan/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/d61a7e9974cb670ed4846428f2961e2d.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 43.389613094857445,
+            "lng": 129.13535562500002
+        },
+        "max": {
+            "lat": 27.819674259586503,
+            "lng": 142.965305625
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "500K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2014-12-14T08:30:19.7050000Z",
+    "updatedAt": "2022-08-17T06:13:30.6200000Z",
+    "numFinishedGames": 2697107,
+    "likedByUser": null,
+    "averageScore": 18818,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "oaktrees",
+        "ground": "beige",
+        "landscape": "houses"
+    },
+    "difficulty": "EASY",
+    "difficultyLevel": 2,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 2129225,
+    "likes": 27241,
+    "locationSelectionMode": 0
+}, {
+    "id": "52d1712a850ffb3b847cb3ba",
+    "name": "United Kingdom",
+    "slug": "uk",
+    "description": "The British Isles have been inhabited for over 30,000 years and been involved in everything from the Roman conquest to the British Invasion. It's also the poster child of fish'n chips, pubs and the weather condition commonly known as rain.",
+    "url": "/maps/uk",
+    "playUrl": "/uk/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/33519c07b513f9348cdcae06637ccdd2.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 50.11613845825195,
+            "lng": -7.342953205108643
+        },
+        "max": {
+            "lat": 58.611953,
+            "lng": 1.735522
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "1M+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:30.2900000Z",
+    "numFinishedGames": 3989106,
+    "likedByUser": null,
+    "averageScore": 12404,
+    "avatar": {
+        "background": "morning",
+        "decoration": "palmtrees",
+        "ground": "green",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1110655,
+    "likes": 22465,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ed4dffb282ad28b94ff887e",
+    "name": "France",
+    "slug": "france",
+    "description": "Visit the #1 tourist destination in the world! It doesn't matter if you're a foodie, history buff or a culture vulture. You can spend a lifetime here, and there will still be stuff left to see. Bonjour!",
+    "url": "/maps/france",
+    "playUrl": "/france/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/a0c2d083002ab8968d3c80740f8a5b76.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 41.623847,
+            "lng": -4.779623
+        },
+        "max": {
+            "lat": 51.079054,
+            "lng": 9.548298
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "1M+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:31.0440000Z",
+    "numFinishedGames": 1797692,
+    "likedByUser": null,
+    "averageScore": 15590,
+    "avatar": {
+        "background": "evening",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1516427,
+    "likes": 15657,
+    "locationSelectionMode": 0
+}, {
+    "id": "5598f052d7ccb0aaa4de9002",
+    "name": "Spain",
+    "slug": "spain",
+    "description": "Everywhere from the Pyrenees to the snowcapped Sierra Nevada that rises up from the sun-baked plains of Andalucia, you'll find villages of timeless beauty. There's a reason why 'fiesta' is one of the best-known words, it's because life is itself a fiesta and everyone seems to be invited.",
+    "url": "/maps/spain",
+    "playUrl": "/spain/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/f72264478533a80f39f1aa40fe817585.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 27.746169,
+            "lng": -17.977306365966797
+        },
+        "max": {
+            "lat": 43.726028,
+            "lng": 4.284275
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "500K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:33.3910000Z",
+    "numFinishedGames": 1973515,
+    "likedByUser": null,
+    "averageScore": 13884,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "cactus",
+        "ground": "blue",
+        "landscape": "mountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 2666442,
+    "likes": 15510,
+    "locationSelectionMode": 0
+}, {
+    "id": "53932369aa05a69514a4473c",
+    "name": "Canada",
+    "slug": "canada",
+    "description": "Whether you’re a hard-core adrenaline junkie looking for a backcountry adventure, an explorer on a big road trip or just want to experience the city pulse; The Great White North ticks all the boxes.",
+    "url": "/maps/canada",
+    "playUrl": "/canada/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/01bfaac933cbc42417bcb1e52005455b.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 42.01945877075195,
+            "lng": -135.927281
+        },
+        "max": {
+            "lat": 68.37032318115234,
+            "lng": -52.71628189086914
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "500K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:30.7410000Z",
+    "numFinishedGames": 1479679,
+    "likedByUser": null,
+    "averageScore": 11895,
+    "avatar": {
+        "background": "evening",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "mountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 5460682,
+    "likes": 11859,
+    "locationSelectionMode": 0
+}, {
+    "id": "5597a471c398534748a73cc5",
+    "name": "Russia",
+    "slug": "russia",
+    "description": "Давайте рассмотрим Россию! Russia covers eleven time zones, two continents and is one of the most beautiful countries in the world. A whole new world is waiting for you to be discovered. ",
+    "url": "/maps/russia",
+    "playUrl": "/russia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/662b32928d69a9f75b6e6b9305f3693f.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 42.578273,
+            "lng": 19.92945671081543
+        },
+        "max": {
+            "lat": 69.481102,
+            "lng": 160.861586
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "500K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:33.3140000Z",
+    "numFinishedGames": 997467,
+    "likedByUser": null,
+    "averageScore": 11573,
+    "avatar": {
+        "background": "sunrise",
+        "decoration": "oaktrees",
+        "ground": "green",
+        "landscape": "grassmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 7152518,
+    "likes": 10685,
+    "locationSelectionMode": 0
+}, {
+    "id": "539323ceaa05a69514a4473d",
+    "name": "Australia",
+    "slug": "australia",
+    "description": "The home of the kangaroo and the koala, the vast outback and the great barrier reef. It's the world's smallest continent but also the planet's sixth largest country. Welcome to the land down under!",
+    "url": "/maps/australia",
+    "playUrl": "/australia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/90bc27fc05abbea1900694d39e5f6779.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -43.18114471435547,
+            "lng": 113.67536926269531
+        },
+        "max": {
+            "lat": -12.3480224609375,
+            "lng": 153.58351135253906
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "500K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:30.8080000Z",
+    "numFinishedGames": 1364424,
+    "likedByUser": null,
+    "averageScore": 10093,
+    "avatar": {
+        "background": "evening",
+        "decoration": "palmtrees",
+        "ground": "beige",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 5131893,
+    "likes": 9824,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ed64d29e2b67a34647237ec",
+    "name": "Italy",
+    "slug": "italy",
+    "description": "The food, the history and the picturesque villages. Italy is known for everything between pasta and Roman ruins. Bring a guide book and navigate the country with the world record in UNESCO World Heritage Sites, as well as many soothing vineyards!",
+    "url": "/maps/italy",
+    "playUrl": "/italy/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/f076fb8de8976e9fdf8f4dc90645e428.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 35.514436,
+            "lng": 6.690782
+        },
+        "max": {
+            "lat": 47.021385,
+            "lng": 18.476482391357422
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "500K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:36.7980000Z",
+    "numFinishedGames": 895174,
+    "likedByUser": null,
+    "averageScore": 11801,
+    "avatar": {
+        "background": "night",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1610935,
+    "likes": 9100,
+    "locationSelectionMode": 0
+}, {
+    "id": "54c77762ab462aac88f35ec0",
+    "name": "Netherlands",
+    "slug": "netherlands",
+    "description": "Discover the many secrets of this gently beautiful country and its masterpieces, canal towns and windmills. Bike past fields of tulips, pretty canals and church spires as you go, but don't hesitate to make a stop here and there. Each town is often a profoundly separate place with its own distinct identity.",
+    "url": "/maps/netherlands",
+    "playUrl": "/netherlands/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/19c0424194468887ca7acb1c7b5c2a96.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 50.8363037109375,
+            "lng": 3.452712681548881
+        },
+        "max": {
+            "lat": 53.408544,
+            "lng": 7.038042068481445
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:30.8850000Z",
+    "numFinishedGames": 1305460,
+    "likedByUser": null,
+    "averageScore": 13418,
+    "avatar": {
+        "background": "evening",
+        "decoration": "palmtrees",
+        "ground": "beige",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 376363,
+    "likes": 8883,
+    "locationSelectionMode": 0
+}, {
+    "id": "56c5d497e5cc36930cbaa574",
+    "name": "Brazil",
+    "slug": "brazil",
+    "description": "Soccer, samba and the Amazon. The world's fifth largest country, bordering almost all of the South American countries.",
+    "url": "/maps/brazil",
+    "playUrl": "/brazil/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/faf1e9514a73797c9d4aee133973399f.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -33.692196,
+            "lng": -72.977164
+        },
+        "max": {
+            "lat": 3.380752,
+            "lng": -32.409901
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "500K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:30.9700000Z",
+    "numFinishedGames": 953892,
+    "likedByUser": null,
+    "averageScore": 10032,
+    "avatar": {
+        "background": "day",
+        "decoration": "tractor",
+        "ground": "yellow",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 5921861,
+    "likes": 8373,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1714",
+    "name": "India",
+    "slug": "india",
+    "description": "India is a fast growing country, expected to become the world’s most populated country by 2024. More than 700 different languages and dialects are spoken across the country, but only 22 of these are official. Brush off those Hindi skills and let’s go!",
+    "url": "/maps/india",
+    "playUrl": "/india/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/5227989f23f8a86f605fd0dc91df0604.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 8.389062,
+            "lng": 70.136542
+        },
+        "max": {
+            "lat": 33.923458,
+            "lng": 94.744971
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0580000Z",
+    "updatedAt": "2022-08-17T06:13:37.1090000Z",
+    "numFinishedGames": 511510,
+    "likedByUser": null,
+    "averageScore": 13020,
+    "avatar": {
+        "background": "morning",
+        "decoration": "cactus",
+        "ground": "beige",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 3795069,
+    "likes": 8303,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1718",
+    "name": "Germany",
+    "slug": "germany",
+    "description": "Mahlzeit and welcome to Germany! Put the pedal to the metal on Autobahn, the highways where there’s no speed limit. For some fun settle down in Munich at the end of September and beginning of October for the Oktoberfest celebrations - a beer festival and carnival. Dress up in your best lederhosen or dirndl and join the party!",
+    "url": "/maps/germany",
+    "playUrl": "/germany/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/d8088c4207562b41226c7e9f2a99c891.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 47.549227,
+            "lng": 5.968082
+        },
+        "max": {
+            "lat": 54.805814,
+            "lng": 14.753233
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0750000Z",
+    "updatedAt": "2022-08-17T06:13:37.8070000Z",
+    "numFinishedGames": 884805,
+    "likedByUser": null,
+    "averageScore": 13807,
+    "avatar": {
+        "background": "day",
+        "decoration": "palmtrees",
+        "ground": "blue",
+        "landscape": "grassmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1011360,
+    "likes": 7621,
+    "locationSelectionMode": 0
+}, {
+    "id": "5391c435aa05a650ac831e33",
+    "name": "Poland",
+    "slug": "poland",
+    "description": "Poland is located at a geographic crossroads that links the forested lands of northwestern Europe to the sea lanes of the Atlantic Ocean and the fertile plains of the Eurasian frontier. A nation with a proud cultural heritage, Poland can trace its roots back over 1,000 years.",
+    "url": "/maps/poland",
+    "playUrl": "/poland/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/2bb1d8a7f54727f421f0b7844b764f8a.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 49.07205581665039,
+            "lng": 14.130062
+        },
+        "max": {
+            "lat": 54.83352279663086,
+            "lng": 24.131471633911133
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "500K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:35.9510000Z",
+    "numFinishedGames": 825717,
+    "likedByUser": null,
+    "averageScore": 10956,
+    "avatar": {
+        "background": "sunrise",
+        "decoration": "oaktrees",
+        "ground": "green",
+        "landscape": "grassmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 936551,
+    "likes": 7480,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1717",
+    "name": "Turkey",
+    "slug": "turkey",
+    "description": "The major city of Istanbul is unique in the fact that it’s built over two continents, Europe and Asia. Having had three major empires historically in the Roman, Byzantine and Ottoman empires, Turkey has a long history which vouches for great excursions. Come along!",
+    "url": "/maps/turkey",
+    "playUrl": "/turkey/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/45694e550b656e831f10b7d850d613a3.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 36.058747,
+            "lng": 26.221734
+        },
+        "max": {
+            "lat": 42.029454,
+            "lng": 44.698279
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "150K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0700000Z",
+    "updatedAt": "2022-08-17T06:13:34.0550000Z",
+    "numFinishedGames": 762371,
+    "likedByUser": null,
+    "averageScore": 13154,
+    "avatar": {
+        "background": "night",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1723722,
+    "likes": 6799,
+    "locationSelectionMode": 0
+}, {
+    "id": "5237781f219d074e74fb83ff",
+    "name": "Sweden",
+    "slug": "sweden",
+    "description": "The Nobel Prize, IKEA, meatballs and cold winters - Sweden is famous for a lot of different things. Aside from being the third largest country in Europe by size and one the most sparsely populated it's also where GeoGuessr was born and raised. Welcome to Scandinavia!",
+    "url": "/maps/sweden",
+    "playUrl": "/sweden/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/cee65b362c1f6ab6db3f27fe077cb125.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 68.06197357177734,
+            "lng": 11.739151374999981
+        },
+        "max": {
+            "lat": 55.99148898753535,
+            "lng": 21.574218750000004
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:34.9220000Z",
+    "numFinishedGames": 973022,
+    "likedByUser": null,
+    "averageScore": 13631,
+    "avatar": {
+        "background": "evening",
+        "decoration": "palmtrees",
+        "ground": "green",
+        "landscape": "grassmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1432733,
+    "likes": 6670,
+    "locationSelectionMode": 0
+}, {
+    "id": "5391d389aa05a6ca544a8c26",
+    "name": "Norway",
+    "slug": "norway",
+    "description": "Norway is famed for its mountains and spectacular fjord coastline, as well as its history as a seafaring power. About two-thirds of Norway is mountainous, and off its much-indented coastline lie, carved by deep glacial fjords, some 50,000 islands.",
+    "url": "/maps/norway",
+    "playUrl": "/norway/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/8b866e1371ec9642d8eda6e7da5d7f65.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 58.003912,
+            "lng": 4.625380992889404
+        },
+        "max": {
+            "lat": 71.11270904541016,
+            "lng": 31.09112548828125
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:36.1830000Z",
+    "numFinishedGames": 520495,
+    "likedByUser": null,
+    "averageScore": 13640,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "smalltrees",
+        "ground": "green",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1897681,
+    "likes": 4631,
+    "locationSelectionMode": 0
+}, {
+    "id": "54e892a3a737a70850e72468",
+    "name": "Argentina",
+    "slug": "argentina",
+    "description": "From the towering Andes in the west to the great Atlantic in the east. Spanning from the lush never-ending plains of the Pampas to the pulsating, soccer-loving cities in between. Don't forget to practice your tango steps on the way!",
+    "url": "/maps/argentina",
+    "playUrl": "/argentina/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/12236212f5a577da0e6c6ddf3d468d3f.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -54.853411,
+            "lng": -72.302561
+        },
+        "max": {
+            "lat": -22.097551,
+            "lng": -53.658989
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:33.0140000Z",
+    "numFinishedGames": 381564,
+    "likedByUser": null,
+    "averageScore": 10509,
+    "avatar": {
+        "background": "evening",
+        "decoration": "smalltrees",
+        "ground": "beige",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 3959700,
+    "likes": 4337,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf171b",
+    "name": "Switzerland",
+    "slug": "switzerland",
+    "description": "Longing for chocolate? You’ve come to the right country! Switzerland produces and eats more chocolate than any other country. Stroll the cobbled streets of the Old Town in capital city of Bern or visit the science city of Genève where the largest particle physics lab CERN is located. Come along - and don’t forget the chocolate!",
+    "url": "/maps/switzerland",
+    "playUrl": "/switzerland/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/c7a213a341c0049fa224d630fc0e9543.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 45.852758,
+            "lng": 5.981878
+        },
+        "max": {
+            "lat": 47.783541,
+            "lng": 10.371614
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0920000Z",
+    "updatedAt": "2022-08-17T06:13:35.2380000Z",
+    "numFinishedGames": 382008,
+    "likedByUser": null,
+    "averageScore": 13870,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "smalltrees",
+        "ground": "blue",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 396977,
+    "likes": 3799,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699bc0c6aa6d90cf1704",
+    "name": "Ukraine",
+    "slug": "ukraine",
+    "description": "Pripyat in northern Ukraine is perhaps the most famous ghost town after the Chernobyl nuclear power plant disaster in 1986. Nowadays there are guided tours of the area, although radiation levels are still high. For a another unique and lush outing, visit the Tunnel of Love, an overgrown railroad tunnel!",
+    "url": "/maps/ukraine",
+    "playUrl": "/ukraine/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/f24f2a0724172b86f4fcd2d172cac268.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 46.33356857299805,
+            "lng": 22.20966
+        },
+        "max": {
+            "lat": 52.240741,
+            "lng": 37.9412841796875
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:43.9840000Z",
+    "updatedAt": "2022-08-17T06:13:34.8480000Z",
+    "numFinishedGames": 314812,
+    "likedByUser": null,
+    "averageScore": 9930,
+    "avatar": {
+        "background": "day",
+        "decoration": "cactus",
+        "ground": "yellow",
+        "landscape": "forest"
+    },
+    "difficulty": "HARD",
+    "difficultyLevel": 4,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1312553,
+    "likes": 3790,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf170e",
+    "name": "New Zealand",
+    "slug": "new-zealand",
+    "description": "The land of kiwis - name of a fruit, a native bird and a nickname for the people of New Zealand. For the adrenaline junkie, rafting, bungy jumping and snowboarding are some of the multitudes of thrill seeking activities. Get out of those jandals, bring a stubbie and enjoy the ride!",
+    "url": "/maps/new-zealand",
+    "playUrl": "/new-zealand/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/57c8375836c63269da5ea7c559b84143.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -46.88363,
+            "lng": 167.547367
+        },
+        "max": {
+            "lat": -34.42481,
+            "lng": 178.414026
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0290000Z",
+    "updatedAt": "2022-08-17T06:13:36.2610000Z",
+    "numFinishedGames": 314776,
+    "likedByUser": null,
+    "averageScore": 11870,
+    "avatar": {
+        "background": "morning",
+        "decoration": "oaktrees",
+        "ground": "green",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1657651,
+    "likes": 3627,
+    "locationSelectionMode": 0
+}, {
+    "id": "53bba382511dac2998cb5346",
+    "name": "London",
+    "slug": "london",
+    "description": "London was founded as a communication center by the Romans shortly after they invaded Britain in 43 AD. The conclusion remains the same.. London is a perfect binding of the past and the present, a city with so many places to visit that one couldn't find the time to view them all.",
+    "url": "/maps/london",
+    "playUrl": "/london/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/7fd4bb2425f6684c9707538d725003ce.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 51.483606,
+            "lng": -0.1876600000000508
+        },
+        "max": {
+            "lat": 51.529362,
+            "lng": -0.06831099999999424
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "1000+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:33.2010000Z",
+    "numFinishedGames": 664478,
+    "likedByUser": null,
+    "averageScore": 12476,
+    "avatar": {
+        "background": "day",
+        "decoration": "tractor",
+        "ground": "yellow",
+        "landscape": "grassmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": false,
+    "maxErrorDistance": 9701,
+    "likes": 3529,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1711",
+    "name": "Portugal",
+    "slug": "portugal",
+    "description": "Live out your own fairytale fantasy in the town of Sintra with colorful castles and castle ruins. Take an old school trolley ride to Praia das Maçãs beaches, surf a bit, sunbathe and have some really fresh fish at the restaurants.",
+    "url": "/maps/portugal",
+    "playUrl": "/portugal/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/a0e2c6893e3d10be5440021026f275a5.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 32.639504,
+            "lng": -27.371291
+        },
+        "max": {
+            "lat": 42.10527038574219,
+            "lng": -6.26118278503418
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "150K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0440000Z",
+    "updatedAt": "2022-08-17T06:13:35.8740000Z",
+    "numFinishedGames": 298402,
+    "likedByUser": null,
+    "averageScore": 16028,
+    "avatar": {
+        "background": "evening",
+        "decoration": "palmtrees",
+        "ground": "beige",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 2133380,
+    "likes": 3427,
+    "locationSelectionMode": 0
+}, {
+    "id": "5391cf94aa05a6ca544a8c21",
+    "name": "Denmark",
+    "slug": "denmark",
+    "description": "Once brutal Vikings, now one of the world's most peaceful societies. The southernmost of the Scandinavian nations known for smørrebrød, the Roskilde festival and Tivoli Gardens.",
+    "url": "/maps/denmark",
+    "playUrl": "/denmark/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/7b89c16ee8a7eec178ae7ad542114ea0.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 54.615970611572266,
+            "lng": 8.105432
+        },
+        "max": {
+            "lat": 57.731192,
+            "lng": 15.092335
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:37.4950000Z",
+    "numFinishedGames": 384955,
+    "likedByUser": null,
+    "averageScore": 13625,
+    "avatar": {
+        "background": "evening",
+        "decoration": "palmtrees",
+        "ground": "beige",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 553645,
+    "likes": 3375,
+    "locationSelectionMode": 0
+}, {
+    "id": "5391d5ecaa05a6ca544a8c29",
+    "name": "Finland",
+    "slug": "finland",
+    "description": "A large part of Finland is covered in water. The lakes in here are some of the cleanest in the world. Finland´s coast boasts the world´s largest archipelago. The thrill of witnessing the Aurora Borealis – the northern lights – is a once-in-a-lifetime experience for many. Finland is one of the best places on Earth to see them – they appear on more than 200 nights a year in Finnish Lapland.",
+    "url": "/maps/finland",
+    "playUrl": "/finland/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/f4e9e7a8c6f7eb62ca8f63de7abfb14f.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 59.833797454833984,
+            "lng": 20.76979637145996
+        },
+        "max": {
+            "lat": 70.0893325805664,
+            "lng": 31.294715881347656
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "150K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:37.2630000Z",
+    "numFinishedGames": 508026,
+    "likedByUser": null,
+    "averageScore": 11925,
+    "avatar": {
+        "background": "night",
+        "decoration": "oaktrees",
+        "ground": "blue",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1239163,
+    "likes": 3365,
+    "locationSelectionMode": 0
+}, {
+    "id": "56cc955b631612e5503f1227",
+    "name": "Ireland",
+    "slug": "ireland",
+    "description": "Ireland, the Emerald Isle is the third-largest in Europe. Bring out your green! St. Patrick’s Day is packed with parades, good luck charms, and all things green. The event started as a religious holiday, but over time it’s become a celebration of Irish culture.",
+    "url": "/maps/ireland",
+    "playUrl": "/ireland/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/94a17d49acf25c4e2ea87122d5461e84.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 51.49765396118164,
+            "lng": -10.430136680603027
+        },
+        "max": {
+            "lat": 55.363628,
+            "lng": -6.046603202819824
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:36.9550000Z",
+    "numFinishedGames": 308677,
+    "likedByUser": null,
+    "averageScore": 11623,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "oaktrees",
+        "ground": "blue",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 518552,
+    "likes": 3266,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1715",
+    "name": "Belgium",
+    "slug": "belgium",
+    "description": "Along with waffles, beer and moules-frites, albeit a tiny country Belgium has three official languages and houses more than 11 million inhabitants. For some political action, The European Union headquarters are located in the capital of Brussels as well as NATO headquarters.",
+    "url": "/maps/belgium",
+    "playUrl": "/belgium/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/2b1a2685372e41fdb382f67c2228ecf5.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 49.50295639038086,
+            "lng": 2.566675901412964
+        },
+        "max": {
+            "lat": 51.49760437011719,
+            "lng": 6.37174
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "150K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0620000Z",
+    "updatedAt": "2022-08-17T06:13:33.1260000Z",
+    "numFinishedGames": 248578,
+    "likedByUser": null,
+    "averageScore": 13971,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "smalltrees",
+        "ground": "blue",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 348663,
+    "likes": 3236,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1708",
+    "name": "Romania",
+    "slug": "romania",
+    "description": "Romania is home to the world’s heaviest building, the immense Palace of Parliament in Bucharest, the world’s largest flag and the most scenic drive in the world, the Transfăgărășan highway. They have a few more records up their sleeve like the world’s longest sausage and the largest bowl of goulash. See if you can set your own record in this record country!",
+    "url": "/maps/romania",
+    "playUrl": "/romania/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/c0cd2034f8dcb4cb931023cfcf4b7a7a.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 43.630313873291016,
+            "lng": 20.283693313598633
+        },
+        "max": {
+            "lat": 48.243936,
+            "lng": 29.483346
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0020000Z",
+    "updatedAt": "2022-08-17T06:13:35.7940000Z",
+    "numFinishedGames": 293124,
+    "likedByUser": null,
+    "averageScore": 10161,
+    "avatar": {
+        "background": "sunrise",
+        "decoration": "cactus",
+        "ground": "green",
+        "landscape": "mountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 876113,
+    "likes": 3225,
+    "locationSelectionMode": 0
+}, {
+    "id": "55aca1a36db66a5544be80d5",
+    "name": "Serbia",
+    "slug": "serbia",
+    "description": "The former core republic of Yugoslavia is now a landlocked country in the central part of the Balkan Peninsula in Southeastern Europe. Did you know Serbia won the 2020 GeoGuessr world cup?",
+    "url": "/maps/serbia",
+    "playUrl": "/serbia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/09a7ff082e126e215d37eb149de8ec0b.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 42.362526,
+            "lng": 19.00679
+        },
+        "max": {
+            "lat": 46.152648,
+            "lng": 22.762313
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:35.6380000Z",
+    "numFinishedGames": 227243,
+    "likedByUser": null,
+    "averageScore": 12355,
+    "avatar": {
+        "background": "evening",
+        "decoration": "smalltrees",
+        "ground": "beige",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 516647,
+    "likes": 3216,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1722",
+    "name": "Indonesia",
+    "slug": "indonesia",
+    "description": "Located right at the Ring of Fire, Indonesia has some of the most active volcanoes in the world. Sounds a bit too adventurous? Indonesia is a large country and the archipelago consists of over 17 000 thousand islands, among those are beachy Bali and Java, home to buzzing capital of Jakarta.",
+    "url": "/maps/indonesia",
+    "playUrl": "/indonesia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/e4c266bc28b9566abae0ba29d397e602.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -10.162574,
+            "lng": 97.140162
+        },
+        "max": {
+            "lat": 4.132872,
+            "lng": 125.131092
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.1370000Z",
+    "updatedAt": "2022-08-17T06:13:37.0350000Z",
+    "numFinishedGames": 244813,
+    "likedByUser": null,
+    "averageScore": 12179,
+    "avatar": {
+        "background": "evening",
+        "decoration": "palmtrees",
+        "ground": "beige",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 3483672,
+    "likes": 3215,
+    "locationSelectionMode": 0
+}, {
+    "id": "5391ec6eaa05a6ca544a8c52",
+    "name": "New York City",
+    "slug": "newyork",
+    "description": "Once upon a time called New Amsterdam, New York City is now perhaps the most recognizable city in the world. Don't forget to take in the sights as you take a bite of the Big Apple's five different buroughs!",
+    "url": "/maps/newyork",
+    "playUrl": "/newyork/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/d0f3b30e41d0d6b5f246b6da4b820770.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 40.49848872097629,
+            "lng": -74.25255926638931
+        },
+        "max": {
+            "lat": 40.8894011,
+            "lng": -73.73338139517534
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "1000+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:32.9110000Z",
+    "numFinishedGames": 466669,
+    "likedByUser": null,
+    "averageScore": 13646,
+    "avatar": {
+        "background": "day",
+        "decoration": "tractor",
+        "ground": "yellow",
+        "landscape": "grassmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": false,
+    "maxErrorDistance": 61687,
+    "likes": 3111,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699bc0c6aa6d90cf1703",
+    "name": "Mexico",
+    "slug": "mexico",
+    "description": "Cenotes, Chiapas and corn are some highlights of Mexico. Cenotes, or large sinkholes, are scattered across the Yucatán Peninsula, great for adventure and nature highs. The state of Chiapas is home to ancient several Mayan ruins, among them Palenque and Chinkultic. Highlight or not, Mexico has 59 different types of corn and it’s highly featured in Mexican cuisine.",
+    "url": "/maps/mexico",
+    "playUrl": "/mexico/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/4a1579542fc4488df3b4f49acf74224a.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 14.559538,
+            "lng": -117.123931
+        },
+        "max": {
+            "lat": 32.71683120727539,
+            "lng": -86.73564910888672
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:43.9780000Z",
+    "updatedAt": "2022-08-17T06:13:35.0800000Z",
+    "numFinishedGames": 211797,
+    "likedByUser": null,
+    "averageScore": 11018,
+    "avatar": {
+        "background": "evening",
+        "decoration": "smalltrees",
+        "ground": "beige",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 3673424,
+    "likes": 2888,
+    "locationSelectionMode": 0
+}, {
+    "id": "550737888d51bc2e0c1f3916",
+    "name": "Paris",
+    "slug": "paris",
+    "description": "Built around the flowing river Seine, Paris has something for all tastes. From the cultural district of Montmartre to the astonishing cathedral of Notre Dame and the iconic Eiffel Tower. The City of Light has too many sights to name them all, just take a look for yourself. Bon voyage!",
+    "url": "/maps/paris",
+    "playUrl": "/paris/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/2b71ec8936b736b17225c07d32044570.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 48.807697,
+            "lng": 2.219898
+        },
+        "max": {
+            "lat": 48.903765,
+            "lng": 2.449144
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:33.0490000Z",
+    "numFinishedGames": 365378,
+    "likedByUser": null,
+    "averageScore": 14221,
+    "avatar": {
+        "background": "evening",
+        "decoration": "palmtrees",
+        "ground": "beige",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": false,
+    "maxErrorDistance": 19884,
+    "likes": 2827,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1716",
+    "name": "Greece",
+    "slug": "greece",
+    "description": "Welcome to sunny Hellas! Dance, eat and visit ancient ruins, Greece is famous for an abundance of traditional dances, exquisite Mediterranean cuisine and temples and monuments from ancient Greece. Make sure to leave the high heels at home though as they are forbidden to wear while visiting the ancient sites due to wear and tear!",
+    "url": "/maps/greece",
+    "playUrl": "/greece/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/8ee99b7538050f0ccc6d57ce6bd7b0f6.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 35.012519,
+            "lng": 19.635562
+        },
+        "max": {
+            "lat": 41.736976,
+            "lng": 28.232973
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "150K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0660000Z",
+    "updatedAt": "2022-08-17T06:13:36.4080000Z",
+    "numFinishedGames": 236504,
+    "likedByUser": null,
+    "averageScore": 11516,
+    "avatar": {
+        "background": "morning",
+        "decoration": "cactus",
+        "ground": "yellow",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1057602,
+    "likes": 2805,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf170a",
+    "name": "Bulgaria",
+    "slug": "bulgaria",
+    "description": "Welcome to The land of roses, the fragrance from the Rose Valley is eminent throughout May to June - or, seaside resort around the Black Sea - Sunny Beach is one of plenty options.",
+    "url": "/maps/bulgaria",
+    "playUrl": "/bulgaria/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/02c2f20fbc270e8616861463b6a1303c.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 41.292198181152344,
+            "lng": 22.387747
+        },
+        "max": {
+            "lat": 44.193301,
+            "lng": 28.597427368164062
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "150K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0100000Z",
+    "updatedAt": "2022-08-17T06:13:31.1210000Z",
+    "numFinishedGames": 195847,
+    "likedByUser": null,
+    "averageScore": 10951,
+    "avatar": {
+        "background": "morning",
+        "decoration": "palmtrees",
+        "ground": "yellow",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 600749,
+    "likes": 2743,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf170d",
+    "name": "Chile",
+    "slug": "chile",
+    "description": "Stay hydrated in the Atacama desert - the driest place on Earth, or take a tour to the seaport and colorful city of Valparaíso for some Chilean wine. For penguin enthusiasts out there, Chile is home to several species that can be spotted along the coast as well as on the southern islands. Waddle this stretched out country with us!",
+    "url": "/maps/chile",
+    "playUrl": "/chile/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/3083cecc5074b4b209596d5b7f636e7c.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -54.93429,
+            "lng": -74.119069
+        },
+        "max": {
+            "lat": -18.207813,
+            "lng": -67.598565
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "150K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0250000Z",
+    "updatedAt": "2022-08-17T06:13:37.7260000Z",
+    "numFinishedGames": 204721,
+    "likedByUser": null,
+    "averageScore": 14204,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "cactus",
+        "ground": "blue",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 4121262,
+    "likes": 2646,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699bc0c6aa6d90cf1701",
+    "name": "Croatia",
+    "slug": "croatia",
+    "description": "In the city of Zadar you can listen to a sea organ, an architectural sound art object where the sea waves creates the sound. While you’re here be sure to see the sunset - Alfred Hitchcook said it was the most beautiful in the world. Also, Hum in Istria can boast being the smallest town in the world with only 20 inhabitants!",
+    "url": "/maps/croatia",
+    "playUrl": "/croatia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/065790ba9850d1c91548d8518b4fc2cb.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 42.447887,
+            "lng": 13.498143196105957
+        },
+        "max": {
+            "lat": 46.5246467590332,
+            "lng": 19.419058
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:43.9700000Z",
+    "updatedAt": "2022-08-17T06:13:37.5740000Z",
+    "numFinishedGames": 247415,
+    "likedByUser": null,
+    "averageScore": 12191,
+    "avatar": {
+        "background": "sunrise",
+        "decoration": "cactus",
+        "ground": "green",
+        "landscape": "mountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 652419,
+    "likes": 2601,
+    "locationSelectionMode": 0
+}, {
+    "id": "60227bda8a7b6500016e403e",
+    "name": "Czech Republic",
+    "slug": "czech-republic",
+    "description": "This central European country with over 2000 castles was once was a hotspot of the Holy Roman Empire - the capital city of Prague was even home to the Holy Roman Emperor Charles IV! Even though Prague is a city full of historical sights, don’t miss the kind of creepy Sedlec Ossuary, a bone church east of Prague. The chandelier is said to incorporate every human bone in the body at least once…",
+    "url": "/maps/czech-republic",
+    "playUrl": "/czech-republic/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/c517cf345c96042255e9054ff4da0f7d.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 51.13001546781039,
+            "lng": 11.844160223844007
+        },
+        "max": {
+            "lat": 48.53613284691162,
+            "lng": 18.913862372281507
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "150K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:37.8870000Z",
+    "numFinishedGames": 237515,
+    "likedByUser": null,
+    "averageScore": 13564,
+    "avatar": {
+        "background": "evening",
+        "decoration": "smalltrees",
+        "ground": "beige",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 582990,
+    "likes": 2575,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699bc0c6aa6d90cf1705",
+    "name": "Hungary",
+    "slug": "hungary",
+    "description": "Famous for Rubik’s Cube, SPA and thermal baths, but did you know there are cowboys in Hungary? At the Great Hungarian Plain there are herdsman called csikósok. So, what are you waiting for - giddy up and visit the town of Hortobágy for some more information!",
+    "url": "/maps/hungary",
+    "playUrl": "/hungary/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/f7b55450f54ed1de8d263b99e33c4449.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 45.76573181152344,
+            "lng": 16.144661
+        },
+        "max": {
+            "lat": 48.565091,
+            "lng": 22.873376846313477
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "150K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:43.9880000Z",
+    "updatedAt": "2022-08-17T06:13:35.1630000Z",
+    "numFinishedGames": 217204,
+    "likedByUser": null,
+    "averageScore": 12968,
+    "avatar": {
+        "background": "day",
+        "decoration": "cactus",
+        "ground": "yellow",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 596041,
+    "likes": 2385,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf170b",
+    "name": "Israel",
+    "slug": "israel",
+    "description": "Home to three world religions the capital city of Jerusalem is sacred to the Abrahamic religions with several significant sites, while the Mediterrean city of Tel Aviv is a technology hotspot. Take on an adventure and visit historic places and Bauhaus architecture!",
+    "url": "/maps/israel",
+    "playUrl": "/israel/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/7fef6508297c6057799a325b87e6d2cf.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 29.5495548248291,
+            "lng": 34.55315017700195
+        },
+        "max": {
+            "lat": 33.252305,
+            "lng": 35.791261
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0150000Z",
+    "updatedAt": "2022-08-17T06:13:36.8750000Z",
+    "numFinishedGames": 265970,
+    "likedByUser": null,
+    "averageScore": 13246,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "cactus",
+        "ground": "green",
+        "landscape": "mountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 428155,
+    "likes": 2214,
+    "locationSelectionMode": 0
+}, {
+    "id": "6023c576fa8608000195ccf4",
+    "name": "Austria",
+    "slug": "austria",
+    "description": "The Alps! The scenery! The classical music! The inventions! We all have Austria and Austrians to thank for inventions like the sewing machine and alkaline battery, as well as composers like Mozart, Haydn and Schubert, to name a few. Winter sports and in particular alpine skiing is a go-to activity thanks to the neighbouring The Alps.",
+    "url": "/maps/austria",
+    "playUrl": "/austria/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/f35c41a3b2a1266b227fa5eee1c04fa8.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 49.91111335044109,
+            "lng": 9.1845703125
+        },
+        "max": {
+            "lat": 45.34960658678959,
+            "lng": 18.0615234375
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:38.1770000Z",
+    "numFinishedGames": 216623,
+    "likedByUser": null,
+    "averageScore": 17741,
+    "avatar": {
+        "background": "sunrise",
+        "decoration": "smalltrees",
+        "ground": "green",
+        "landscape": "grassmountains"
+    },
+    "difficulty": "EASY",
+    "difficultyLevel": 2,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 835582,
+    "likes": 2164,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1710",
+    "name": "Slovakia",
+    "slug": "slovakia",
+    "description": "Located in one of the geographical midpoints of Europe (depending on how you count) Slovakia has more than 6000 caves and diverse nature. Visit the High Tatras mountains with glacier lakes and peaks at 2500 meters above sea level and mineral springs in one of many spa resorts.",
+    "url": "/maps/slovakia",
+    "playUrl": "/slovakia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/9896a1d59049c0d04c29446a2f3daf57.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 47.74079895019531,
+            "lng": 16.913597106933594
+        },
+        "max": {
+            "lat": 49.54084396362305,
+            "lng": 22.431425094604492
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0380000Z",
+    "updatedAt": "2022-08-17T06:13:34.7670000Z",
+    "numFinishedGames": 171826,
+    "likedByUser": null,
+    "averageScore": 14063,
+    "avatar": {
+        "background": "morning",
+        "decoration": "palmtrees",
+        "ground": "yellow",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 451987,
+    "likes": 1977,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1712",
+    "name": "Colombia",
+    "slug": "colombia",
+    "description": "Tune in to The land of a thousand rhythms and bring those salsa moves. Cumbia is the national dance of Colombia but there are many more. To keep up, have a cup or two of Colombian coffee, which of many is considered to be the best coffee in the world!",
+    "url": "/maps/colombia",
+    "playUrl": "/colombia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/54134ecb612e3695f7206f483cd25c90.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -4.216266,
+            "lng": -81.734838
+        },
+        "max": {
+            "lat": 13.383211,
+            "lng": -69.937173
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0490000Z",
+    "updatedAt": "2022-08-17T06:13:37.6510000Z",
+    "numFinishedGames": 128673,
+    "likedByUser": null,
+    "averageScore": 12000,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "tractor",
+        "ground": "blue",
+        "landscape": "mountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 2350723,
+    "likes": 1963,
+    "locationSelectionMode": 0
+}, {
+    "id": "53a75432aa05a6288c99f8e2",
+    "name": "Taiwan",
+    "slug": "taiwan",
+    "description": "Visit the spicy, scenic island of Taiwan. Keep your eyes open as you cover everything from isolated cycle trails to the pulsating streets of Taipei. This place offers some truly awe-inspiring panoramas and who knows where you might end up.",
+    "url": "/maps/taiwan",
+    "playUrl": "/taiwan/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/9600f3b2a8f06e38fa117befdae9c9e0.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 21.899768829345703,
+            "lng": 119.324269
+        },
+        "max": {
+            "lat": 25.29779624938965,
+            "lng": 122.005005
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:35.0000000Z",
+    "numFinishedGames": 134794,
+    "likedByUser": null,
+    "averageScore": 12791,
+    "avatar": {
+        "background": "sunrise",
+        "decoration": "smalltrees",
+        "ground": "blue",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 466200,
+    "likes": 1933,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf171e",
+    "name": "Philippines",
+    "slug": "philippines",
+    "description": "Hop on a colorful jeepney in the capital of Manila and go explore the oldest Chinatown in the world and historical buildings like Manila City Hall and the San Agustin Church. Drink a cooling halo-halo to get a full Filipino cuisine experience.",
+    "url": "/maps/philippines",
+    "playUrl": "/philippines/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/27798c373f3a64306120af192839e280.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 5.606762,
+            "lng": 117.432528
+        },
+        "max": {
+            "lat": 18.633793,
+            "lng": 126.231794
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.1060000Z",
+    "updatedAt": "2022-08-17T06:13:36.0300000Z",
+    "numFinishedGames": 134723,
+    "likedByUser": null,
+    "averageScore": 11023,
+    "avatar": {
+        "background": "sunrise",
+        "decoration": "cactus",
+        "ground": "green",
+        "landscape": "mountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1734595,
+    "likes": 1769,
+    "locationSelectionMode": 0
+}, {
+    "id": "5507351e8d51bc2e0c1f3911",
+    "name": "Singapore",
+    "slug": "singapore",
+    "description": "Located almost upon the equator, Singapore’s temperatures usually range from 28-34 degrees Celsius all year round and feels like summer all year round. Once a British colonial trading post, today a thriving global financial hub. Spit out your chewing gum (but not on the ground), grab a Singapore sling and explore the land of shopping malls.",
+    "url": "/maps/singapore",
+    "playUrl": "/singapore/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/e24e47a5b42a77e7dd3f0e82959d2bbc.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 1.264407,
+            "lng": 103.623065
+        },
+        "max": {
+            "lat": 1.469853,
+            "lng": 104.002952
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:35.4770000Z",
+    "numFinishedGames": 182069,
+    "likedByUser": null,
+    "averageScore": 15339,
+    "avatar": {
+        "background": "morning",
+        "decoration": "cactus",
+        "ground": "yellow",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 48012,
+    "likes": 1731,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699bc0c6aa6d90cf1702",
+    "name": "Lithuania",
+    "slug": "lithuania",
+    "description": "This Baltic Sea country has it’s own aroma, known as the Scent of Lithuania, so while cruising the streets imagine a combination of wild flowers, ginger, raspberry, sandalwood and musk for the true Lithuanian feeling. If you happen to come across some oddly placed swings, consider Vilnius as the location as an anonymous swing foundation sets up swings all over the city!",
+    "url": "/maps/lithuania",
+    "playUrl": "/lithuania/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/a28d83385d69a6f1d6e0786bd4ceca83.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 53.921939849853516,
+            "lng": 20.97347068786621
+        },
+        "max": {
+            "lat": 56.425846099853516,
+            "lng": 26.825441
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:43.9750000Z",
+    "updatedAt": "2022-08-17T06:13:36.6420000Z",
+    "numFinishedGames": 137602,
+    "likedByUser": null,
+    "averageScore": 9569,
+    "avatar": {
+        "background": "morning",
+        "decoration": "palmtrees",
+        "ground": "green",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "HARD",
+    "difficultyLevel": 4,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 464085,
+    "likes": 1627,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf170f",
+    "name": "Estonia",
+    "slug": "estonia",
+    "description": "Marvel at the Old Town of Tallinn with alleyways dating back to the 13th century and visit medieval churches. For a more relaxed stay, head to the coast for several spa towns and enjoy the beaches and archipelago!",
+    "url": "/maps/estonia",
+    "playUrl": "/estonia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/bf0298c21ba8173c5cb6b207d82c4e4d.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 57.538543701171875,
+            "lng": 21.8394
+        },
+        "max": {
+            "lat": 59.65522766113281,
+            "lng": 28.20612
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0340000Z",
+    "updatedAt": "2022-08-17T06:13:37.3420000Z",
+    "numFinishedGames": 130244,
+    "likedByUser": null,
+    "averageScore": 10951,
+    "avatar": {
+        "background": "day",
+        "decoration": "cactus",
+        "ground": "yellow",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 437295,
+    "likes": 1624,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf171a",
+    "name": "Slovenia",
+    "slug": "slovenia",
+    "description": "A buzzing beekeeper’s gem! Beekeeping is an old tradition in Slovenia and 0.5% of the population are beekeepers - even children can attend beekeeping courses in school. Come along for a sweet tour!",
+    "url": "/maps/slovenia",
+    "playUrl": "/slovenia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/9b2271aa0c30553f383181760b5193ec.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 45.450617,
+            "lng": 13.51389
+        },
+        "max": {
+            "lat": 46.863813,
+            "lng": 16.506261
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0880000Z",
+    "updatedAt": "2022-08-17T06:13:35.3990000Z",
+    "numFinishedGames": 142082,
+    "likedByUser": null,
+    "averageScore": 13068,
+    "avatar": {
+        "background": "evening",
+        "decoration": "palmtrees",
+        "ground": "beige",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 278920,
+    "likes": 1515,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1707",
+    "name": "South Africa",
+    "slug": "south-africa",
+    "description": "Did you know South Africa has three capitals? Pretoria is the executive capital, Cape Town the legislative capital and Bloemfontein the judicial capital. The world’s longest wine route stretches through Cape Wineland - drive along the beautiful rolling hills and savor the breathtaking landscape!",
+    "url": "/maps/south-africa",
+    "playUrl": "/south-africa/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/0a11af9de0067cc38a6ae75e982404b2.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -34.810575,
+            "lng": 16.482955
+        },
+        "max": {
+            "lat": -22.22372817993164,
+            "lng": 32.828696
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "250K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:43.9970000Z",
+    "updatedAt": "2022-08-17T06:13:35.3180000Z",
+    "numFinishedGames": 131395,
+    "likedByUser": null,
+    "averageScore": 9887,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "smalltrees",
+        "ground": "blue",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "HARD",
+    "difficultyLevel": 4,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 2118026,
+    "likes": 1490,
+    "locationSelectionMode": 0
+}, {
+    "id": "60227e6b533ded000168c199",
+    "name": "South Korea",
+    "slug": "south-korea",
+    "description": "A hi-tech hub hosting an abundance of everything K! For music, turn to K-pop, for food you got kalbi, kimchi and kongguksu and for skincare, well there’s K-beauty - take your time, the routines are extensive. Or for a quicker, but deep dive version of skincare, simply visit the Boryeong Mud Festival with Mud Experience Land as its centerpiece.",
+    "url": "/maps/south-korea",
+    "playUrl": "/south-korea/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/e456290492cf650ff8a666a094319913.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 38.65401942301512,
+            "lng": 125.5078125
+        },
+        "max": {
+            "lat": 33.91301529101965,
+            "lng": 129.8583984375
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:37.9590000Z",
+    "numFinishedGames": 92721,
+    "likedByUser": null,
+    "averageScore": 13172,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "tractor",
+        "ground": "blue",
+        "landscape": "mountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 655538,
+    "likes": 1470,
+    "locationSelectionMode": 0
+}, {
+    "id": "5391d3daaa05a6ca544a8c27",
+    "name": "Iceland",
+    "slug": "iceland",
+    "description": "Iceland is a country of sharp contrasts. A place where fire and ice co-exist. Enjoy 24 hours daylight during the summer, indulge in the beautiful colours of the arctic vegetation in autumn and become mystified by the Northern lights during winter time.",
+    "url": "/maps/iceland",
+    "playUrl": "/iceland/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/7a56d55585533b6158b051ca1ce26611.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 63.530099,
+            "lng": -23.888521
+        },
+        "max": {
+            "lat": 66.30367,
+            "lng": -13.737534
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:37.1850000Z",
+    "numFinishedGames": 145809,
+    "likedByUser": null,
+    "averageScore": 12892,
+    "avatar": {
+        "background": "day",
+        "decoration": "cactus",
+        "ground": "yellow",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 568276,
+    "likes": 1444,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1713",
+    "name": "Latvia",
+    "slug": "latvia",
+    "description": "The capital of Riga has a myriad of Art Nouveau buildings making it an interesting architectural destination. For more exciting architecture as well as some beautiful shallow beaches, head to the city of Jürmala. Latvia is a gem for nature addicts as over 50% of the country is pure wilderness - so tie those hiking boots and get exploring!",
+    "url": "/maps/latvia",
+    "playUrl": "/latvia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/fda533fbf99d10f34444bd8747c9a75c.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 55.707908630371094,
+            "lng": 20.986709594726562
+        },
+        "max": {
+            "lat": 58.07196807861328,
+            "lng": 28.185298919677734
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0540000Z",
+    "updatedAt": "2022-08-17T06:13:36.7210000Z",
+    "numFinishedGames": 111165,
+    "likedByUser": null,
+    "averageScore": 11147,
+    "avatar": {
+        "background": "day",
+        "decoration": "cactus",
+        "ground": "yellow",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 509792,
+    "likes": 1357,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699bc0c6aa6d90cf1706",
+    "name": "Thailand",
+    "slug": "thailand",
+    "description": "A kingdom in Southeast Asia - the Land of a Thousand Smiles, this country attracts tourists from all over the world. White sand beaches, snorkeling and festivals are some of the activities to participate in while in Thailand. As long as you follow the local rules of having underwear on when leaving the house and a shirt on while driving - you’re ready to explore!",
+    "url": "/maps/thailand",
+    "playUrl": "/thailand/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/9a4b94f8ad7c6dfc94fc5e78dbe54f06.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 5.849333,
+            "lng": 97.736324
+        },
+        "max": {
+            "lat": 20.464388,
+            "lng": 105.502342
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "150K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:43.9920000Z",
+    "updatedAt": "2022-08-17T06:13:33.9790000Z",
+    "numFinishedGames": 138076,
+    "likedByUser": null,
+    "averageScore": 11816,
+    "avatar": {
+        "background": "evening",
+        "decoration": "palmtrees",
+        "ground": "beige",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1828539,
+    "likes": 1255,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf171c",
+    "name": "Malaysia",
+    "slug": "malaysia",
+    "description": "Cash is king and remember to drive on the left side in this equatorial country in Southeast Asia. Penang Island is considered the food capital of Asia so stroll down the streets of George Town for a tasty, delicious experience!",
+    "url": "/maps/malaysia",
+    "playUrl": "/malaysia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/d9db67c2c623d4f4e5207cb50e84f7e4.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 0.914061,
+            "lng": 99.665487
+        },
+        "max": {
+            "lat": 6.943132,
+            "lng": 118.624084
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0970000Z",
+    "updatedAt": "2022-08-17T06:13:36.4880000Z",
+    "numFinishedGames": 86608,
+    "likedByUser": null,
+    "averageScore": 12842,
+    "avatar": {
+        "background": "night",
+        "decoration": "smalltrees",
+        "ground": "blue",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 2206427,
+    "likes": 1219,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699bc0c6aa6d90cf1700",
+    "name": "Peru",
+    "slug": "peru",
+    "description": "The Lost city of Machu Picchu is one of the New Seven Wonders of the World, a place where Incan civilization once resided. It’s built on a mountain ridge 2430 meteres above sea level and the only way to get there is to hike. More of an animal person? Alpacas and the Peruvian Inca Orchid Dog, which sometimes is called the ugliest dog in the world, are common here.",
+    "url": "/maps/peru",
+    "playUrl": "/peru/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/a460d6fb318196a14f185af475c997fb.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -18.284848,
+            "lng": -81.305097
+        },
+        "max": {
+            "lat": -3.459719,
+            "lng": -69.037351
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "100K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:43.9470000Z",
+    "updatedAt": "2022-08-17T06:13:36.1040000Z",
+    "numFinishedGames": 75362,
+    "likedByUser": null,
+    "averageScore": 10779,
+    "avatar": {
+        "background": "night",
+        "decoration": "palmtrees",
+        "ground": "beige",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 2121482,
+    "likes": 1153,
+    "locationSelectionMode": 0
+}, {
+    "id": "5391f2bcaa05a6ca544a8c66",
+    "name": "San Francisco",
+    "slug": "san-francisco",
+    "description": "San Francisco was founded on June 29, 1776. San Francisco is the cultural center and a leading financial hub of the San Francisco Bay Area and Northern California.",
+    "url": "/maps/san-francisco",
+    "playUrl": "/san-francisco/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/d908c91fbd846ad9181d0083eac1e236.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 37.721828,
+            "lng": -122.51135
+        },
+        "max": {
+            "lat": 37.850268,
+            "lng": -122.27883800000001
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "1000+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:33.1630000Z",
+    "numFinishedGames": 118550,
+    "likedByUser": null,
+    "averageScore": 13321,
+    "avatar": {
+        "background": "evening",
+        "decoration": "smalltrees",
+        "ground": "beige",
+        "landscape": "skyline"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": false,
+    "maxErrorDistance": 24929,
+    "likes": 937,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1721",
+    "name": "Ecuador",
+    "slug": "ecuador",
+    "description": "Ecuador is named from it’s geographical position at the equator and as a result the sun rises at 6 o’clock AM and sets at 6 o’clock PM - every single day. Darwin’s discoveries at the Galápagos Islands lives on with Ecuador being a megadiverse country with many endemic bird species. Bring the binoculars and bird checklist and get going!",
+    "url": "/maps/ecuador",
+    "playUrl": "/ecuador/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/4a9de6eebfe3388e54fd93ec8cb2c20c.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -4.584614,
+            "lng": -91.176864
+        },
+        "max": {
+            "lat": 1.081049,
+            "lng": -76.340757
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.1320000Z",
+    "updatedAt": "2022-08-17T06:13:37.4140000Z",
+    "numFinishedGames": 52691,
+    "likedByUser": null,
+    "averageScore": 13347,
+    "avatar": {
+        "background": "sunrise",
+        "decoration": "palmtrees",
+        "ground": "blue",
+        "landscape": "grassmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1764544,
+    "likes": 892,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf171f",
+    "name": "Uruguay",
+    "slug": "uruguay",
+    "description": "With coast toward the Atlantic Ocean and a unique location, Uruguay is the only country in South America situated entirely south of the Tropic of Capricorn. Explore the capital city of Montevideo and visit a steakhouse - parrillas - to try asado, an open-fire barbecue. Dig in and enjoy a typical Uruguyan meal!",
+    "url": "/maps/uruguay",
+    "playUrl": "/uruguay/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/cfe2fc13294d9d43690ea31938a6fbbf.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -34.954455,
+            "lng": -58.412003
+        },
+        "max": {
+            "lat": -30.462742,
+            "lng": -53.376904
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.1120000Z",
+    "updatedAt": "2022-08-17T06:13:33.8220000Z",
+    "numFinishedGames": 57013,
+    "likedByUser": null,
+    "averageScore": 9475,
+    "avatar": {
+        "background": "night",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "forest"
+    },
+    "difficulty": "HARD",
+    "difficultyLevel": 4,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 686361,
+    "likes": 872,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1726",
+    "name": "Greenland",
+    "slug": "greenland",
+    "description": "Greenland is the largest island on Earth and most of it’s sparse, mostly Inuit, population of 56 000 inhabitants lives in the southwestern part of the island. Did you know Greenland actually was green about 2.5 million years ago? Now most of the island is covered in glaciers, ice and snow - and roads outside of towns are rare. Join us and travel above the Arctic Circle at 66°North for a dogsledding tour!",
+    "url": "/maps/greenland",
+    "playUrl": "/greenland/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/d73e3cbb15cab5215af34d39d79d1983.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 61.030469,
+            "lng": -55.55044
+        },
+        "max": {
+            "lat": 74.603667,
+            "lng": -22.072441
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.1560000Z",
+    "updatedAt": "2022-08-17T06:13:35.5540000Z",
+    "numFinishedGames": 124565,
+    "likedByUser": null,
+    "averageScore": 10445,
+    "avatar": {
+        "background": "sunrise",
+        "decoration": "cactus",
+        "ground": "beige",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 2008077,
+    "likes": 819,
+    "locationSelectionMode": 0
+}, {
+    "id": "60350eee08c23400016272d1",
+    "name": "North Macedonia",
+    "slug": "north-macedonia",
+    "description": "Landlocked in the seismic region of the Balkan Peninsula, North Macedonia has one of the oldest and deepest lakes in the world, one of the oldest astronomic observatories and the deepest underwater cave! For you rocks and mineral fans out there - North Macedonia was home to the only active thallium mine in the world, and - with a bit of luck you can find a raspberry colored ruby around the city of Prilep.",
+    "url": "/maps/north-macedonia",
+    "playUrl": "/north-macedonia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/85ac93fde4169607abf23ace04e170b8.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 42.47070962734837,
+            "lng": 20.3631591796875
+        },
+        "max": {
+            "lat": 40.7570043121291,
+            "lng": 23.1646728515625
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:38.9450000Z",
+    "numFinishedGames": 66878,
+    "likedByUser": null,
+    "averageScore": 11787,
+    "avatar": {
+        "background": "day",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 300890,
+    "likes": 734,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1725",
+    "name": "Mongolia",
+    "slug": "mongolia",
+    "description": "Better be driving a 4WD with some spare tires when going outside of Ulaanbaatar since most of the roads are gravel and dirt roads - or, perhaps a horse trekking tour could be a fun way of discovering the country? Horses are part of everyday life for many Mongolians and there are as many horses as inhabitants!",
+    "url": "/maps/mongolia",
+    "playUrl": "/mongolia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/1cf6352d3246313be2241b412c19c02a.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 43.571924,
+            "lng": 89.919308
+        },
+        "max": {
+            "lat": 51.114233,
+            "lng": 118.615222
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.1520000Z",
+    "updatedAt": "2022-08-17T06:13:36.3280000Z",
+    "numFinishedGames": 134185,
+    "likedByUser": null,
+    "averageScore": 11912,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "cactus",
+        "ground": "beige",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 2300964,
+    "likes": 687,
+    "locationSelectionMode": 0
+}, {
+    "id": "603f7ce61711bc0001d57635",
+    "name": "Albania",
+    "slug": "albania",
+    "description": "Look out for families walking and talking in the streets during early evenings - this tradition called xhiro is a welcomed break outside away from the daytime heat. And remember, nod for no and shake your head for yes, this might be especially good to remember after your first raki!",
+    "url": "/maps/albania",
+    "playUrl": "/albania/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/bb24ca9bf44b04d8690fe670905975f8.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 42.74966490781186,
+            "lng": 17.940673828125
+        },
+        "max": {
+            "lat": 39.51820566633161,
+            "lng": 21.434326171875
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:31.4160000Z",
+    "numFinishedGames": 51564,
+    "likedByUser": null,
+    "averageScore": 11894,
+    "avatar": {
+        "background": "morning",
+        "decoration": "palmtrees",
+        "ground": "blue",
+        "landscape": "grassmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 463287,
+    "likes": 682,
+    "locationSelectionMode": 0
+}, {
+    "id": "605095782feb300001a7e1f8",
+    "name": "Puerto Rico",
+    "slug": "puerto-rico",
+    "description": "This tropical count… Oh, that's right! Puerto Rico is not a sovereign country but a commonwealth governed by the United States. Bring your hiking boots and hit the blue cobblestones in Old San Juan, take to the green tropical rainforest El Yunque (look up, it might rain frogs!) and end the day kayaking in the blue bioluminescent Mosquito Bay.",
+    "url": "/maps/puerto-rico",
+    "playUrl": "/puerto-rico/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/bb4b5ca8b9cb319dc4856d3840ccdeeb.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 19.252332738602245,
+            "lng": -67.8515625
+        },
+        "max": {
+            "lat": 17.49394411544147,
+            "lng": -65.10498046875
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:32.0160000Z",
+    "numFinishedGames": 47235,
+    "likedByUser": null,
+    "averageScore": 14856,
+    "avatar": {
+        "background": "evening",
+        "decoration": "smalltrees",
+        "ground": "green",
+        "landscape": "forest"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 349606,
+    "likes": 668,
+    "locationSelectionMode": 0
+}, {
+    "id": "6023c658fa8608000195cd3b",
+    "name": "Tunisia",
+    "slug": "tunisia",
+    "description": "Welcome to Tunisia, a country with lots of history, from ancient Carthage for example. And do you know what the village of Matmata has that attracts architectural buffs, folklore and history geeks as well as Star Wars nerds? Indigenous underground homes called troglodytes burrowed into the rock! How does Star Wars fit into this? Luke Skywalker lived in a troglodyte! Get your archaeologist hat on and let's get digging!",
+    "url": "/maps/tunisia",
+    "playUrl": "/tunisia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/067b4b4dea1df3b20e16a8e41e1d1bc8.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 37.912383676304415,
+            "lng": 5.537109375
+        },
+        "max": {
+            "lat": 29.704001681351052,
+            "lng": 15.29296875
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:38.2510000Z",
+    "numFinishedGames": 46776,
+    "likedByUser": null,
+    "averageScore": 14539,
+    "avatar": {
+        "background": "night",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1281275,
+    "likes": 629,
+    "locationSelectionMode": 0
+}, {
+    "id": "60350f99c2a5c80001692c51",
+    "name": "Nigeria",
+    "slug": "nigeria",
+    "description": "As the most populated country in Africa and one of the most populous countries in the world, Nigeria is about as multicultural as a country gets with over 500 indigenous languages spoken and over 250 ethnic groups living here! Abuja is the capital city, however Lagos is the largest. Get your art glasses on and check out some art shops and museums.",
+    "url": "/maps/nigeria",
+    "playUrl": "/nigeria/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/3bf28cc16584e61527d2c50017670845.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 14.693375654455371,
+            "lng": 2.30712890625
+        },
+        "max": {
+            "lat": 3.8387273476038843,
+            "lng": 14.9853515625
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:31.2690000Z",
+    "numFinishedGames": 39866,
+    "likedByUser": null,
+    "averageScore": 11836,
+    "avatar": {
+        "background": "night",
+        "decoration": "oaktrees",
+        "ground": "yellow",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1840167,
+    "likes": 616,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1720",
+    "name": "Luxembourg",
+    "slug": "luxembourg",
+    "description": "Over a 100 castles fits in this teeny-tiny country landlocked in Western Europe - and with castles follows, of course, medieval festivals. One of them being at the castle of Vianden, a festival with fighting knights, music and jugglers, and much more!",
+    "url": "/maps/luxembourg",
+    "playUrl": "/luxembourg/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/61ac2fa13549c2b1e7d3ec61d5c19fc2.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 49.457106,
+            "lng": 5.775445
+        },
+        "max": {
+            "lat": 50.166416,
+            "lng": 6.515291
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.1220000Z",
+    "updatedAt": "2022-08-17T06:13:36.5620000Z",
+    "numFinishedGames": 51246,
+    "likedByUser": null,
+    "averageScore": 13578,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 95072,
+    "likes": 597,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1709",
+    "name": "Botswana",
+    "slug": "botswana",
+    "description": "The world’s most elephant dense country is found in landlocked Botswana, where also a unique near-quadripoint comes together - the four borders of Namibia, Botswana, Zambia and Zimbabwe. Come along and roam right through the national parks - don’t be surprised if you see a few of the Big Five!",
+    "url": "/maps/botswana",
+    "playUrl": "/botswana/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/d2f2623f17167fdaf2293ffff1f07b31.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -26.694177,
+            "lng": 20.178566
+        },
+        "max": {
+            "lat": -17.798381805419922,
+            "lng": 29.108182907104492
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0060000Z",
+    "updatedAt": "2022-08-17T06:13:33.5870000Z",
+    "numFinishedGames": 79020,
+    "likedByUser": null,
+    "averageScore": 8162,
+    "avatar": {
+        "background": "night",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "forest"
+    },
+    "difficulty": "HARD",
+    "difficultyLevel": 4,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1349166,
+    "likes": 538,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf1723",
+    "name": "Bangladesh",
+    "slug": "bangladesh",
+    "description": "Head off the beaten track and visit the lush country of Bangladesh. Home to large river deltas, UNESCO sites such as the Sundarbans Mangrove Forest, Mosque City Bagerhat and once the second largest Buddhist monastery of Somapuri Mahabhihara. Take a stroll along Cox’s Bazar, the longest unbroken sandy beach in the world - 125 km in length!",
+    "url": "/maps/bangladesh",
+    "playUrl": "/bangladesh/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/2aa6b912593eea4a1b4c2ec8aea9b920.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 20.833361,
+            "lng": 88.139575
+        },
+        "max": {
+            "lat": 26.329723,
+            "lng": 92.300146
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.1420000Z",
+    "updatedAt": "2022-08-17T06:13:33.6660000Z",
+    "numFinishedGames": 30795,
+    "likedByUser": null,
+    "averageScore": 10008,
+    "avatar": {
+        "background": "morning",
+        "decoration": "oaktrees",
+        "ground": "beige",
+        "landscape": "grassmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 743688,
+    "likes": 517,
+    "locationSelectionMode": 0
+}, {
+    "id": "602281c3c6d96c0001ed44e5",
+    "name": "Guatemala",
+    "slug": "guatemala",
+    "description": "Guatemala derives from the Nahualtl word Quuahtlemallan meaning “the land of trees” and the country certainly lives up to the name with a plethora of national parks ranging from mangrove forests, natural caves and lagoons, to Tikal National Park. This was the first mixed UNESCO World Heritage site, which means that cultural as well as natural wonders are included. In this case - Maya ruins in the jungle.",
+    "url": "/maps/guatemala",
+    "playUrl": "/guatemala/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/4db6890ad8f08dfe072561b120399a17.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 17.888096979014204,
+            "lng": -92.30712890625
+        },
+        "max": {
+            "lat": 13.717199064694102,
+            "lng": -87.8411865234375
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:30.4620000Z",
+    "numFinishedGames": 37762,
+    "likedByUser": null,
+    "averageScore": 11805,
+    "avatar": {
+        "background": "night",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 665788,
+    "likes": 512,
+    "locationSelectionMode": 0
+}, {
+    "id": "6023c725225d9c0001c9a7f3",
+    "name": "Montenegro",
+    "slug": "montenegro",
+    "description": "Enjoy the green Mediterranean climate by the ocean and full on ski weather in the mountains on the same day! Montenegro is located in four climate zones which allows for diverse weather. Come here for the 117 beaches, lots of coffee and scenic routes!",
+    "url": "/maps/montenegro",
+    "playUrl": "/montenegro/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/523a46bac2aed0c9e868eba2673ec7b4.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 43.654589164873066,
+            "lng": 18.1658935546875
+        },
+        "max": {
+            "lat": 41.75222726323843,
+            "lng": 20.4620361328125
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:38.3220000Z",
+    "numFinishedGames": 57661,
+    "likedByUser": null,
+    "averageScore": 11468,
+    "avatar": {
+        "background": "morning",
+        "decoration": "oaktrees",
+        "ground": "beige",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 282730,
+    "likes": 472,
+    "locationSelectionMode": 0
+}, {
+    "id": "5ef4699cc0c6aa6d90cf170c",
+    "name": "Bolivia",
+    "slug": "bolivia",
+    "description": "From cold and extreme altitudes in the Andes to humid and tropical climate in the lowlands, Bolivia is a biodiverse country. Although not capital city, the government city of La Paz is named “The highest capital in the world” at 3640 meters above sea level. Bring your oxygen and let’s acclimate to the high altitudes!",
+    "url": "/maps/bolivia",
+    "playUrl": "/bolivia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/c8192b74e022f46ec1d4c35456c9f1cb.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": -22.782081,
+            "lng": -69.184596
+        },
+        "max": {
+            "lat": -10.325899,
+            "lng": -61.072631
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "2020-06-25T09:08:44.0200000Z",
+    "updatedAt": "2022-08-17T06:13:33.7440000Z",
+    "numFinishedGames": 42351,
+    "likedByUser": null,
+    "averageScore": 13411,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 1631607,
+    "likes": 451,
+    "locationSelectionMode": 0
+}, {
+    "id": "603f7c722f54550001216931",
+    "name": "Malta",
+    "slug": "malta",
+    "description": "Consisting of seven islands, beautiful beaches and being a diver's paradise, Malta has something for all you sun and sea worshippers out there. And there are a lot, about three times more tourists than residents visit the Maltese islands - come along and join the fun in the sun!",
+    "url": "/maps/malta",
+    "playUrl": "/malta/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/bfeeb86f95583f8e19a138521b10a7a7.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 36.095863510428664,
+            "lng": 14.175796508789062
+        },
+        "max": {
+            "lat": 35.786481543208915,
+            "lng": 14.587783813476562
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:31.3430000Z",
+    "numFinishedGames": 39283,
+    "likedByUser": null,
+    "averageScore": 14475,
+    "avatar": {
+        "background": "evening",
+        "decoration": "smalltrees",
+        "ground": "green",
+        "landscape": "houses"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 50587,
+    "likes": 440,
+    "locationSelectionMode": 0
+}, {
+    "id": "60478eeb3f313c00013bbf82",
+    "name": "Dominican Republic",
+    "slug": "dominican-republic",
+    "description": "Part of the Greater Antilles and situated, and sharing, the Hispaniola island with Haiti, the Dominican Republic is a popular vacation hotspot. Golf, beaches, merengue and bachata, stunning views and waterfalls - there are plenty of reasons to visit this Caribbean pearl.",
+    "url": "/maps/dominican-republic",
+    "playUrl": "/dominican-republic/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/ae6b233b478236755cc7612ae17c068c.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 20.378913137286336,
+            "lng": -72.22412109375
+        },
+        "max": {
+            "lat": 17.42058196095641,
+            "lng": -67.82958984375
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "10K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:31.6400000Z",
+    "numFinishedGames": 43324,
+    "likedByUser": null,
+    "averageScore": 15214,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "smalltrees",
+        "ground": "yellow",
+        "landscape": "mountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 567326,
+    "likes": 438,
+    "locationSelectionMode": 0
+}, {
+    "id": "5390e17aaa05a654904e711a",
+    "name": "Philadelphia",
+    "slug": "philadelphia",
+    "description": "Take a stroll with the founding fathers through the first capital of the United States. Cheesesteaks, Rocky and the Declaration of Independence. Welcome to the city of brotherly love!",
+    "url": "/maps/philadelphia",
+    "playUrl": "/philadelphia/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/dd05effb76800125147b1b4b86956f0c.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 39.900695,
+            "lng": -75.20287400000001
+        },
+        "max": {
+            "lat": 39.970486,
+            "lng": -75.13470999999998
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "210",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:30.6610000Z",
+    "numFinishedGames": 45568,
+    "likedByUser": null,
+    "averageScore": 11241,
+    "avatar": {
+        "background": "sunset",
+        "decoration": "cactus",
+        "ground": "beige",
+        "landscape": "snowmountains"
+    },
+    "difficulty": "MEDIUM",
+    "difficultyLevel": 3,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": false,
+    "maxErrorDistance": 9695,
+    "likes": 418,
+    "locationSelectionMode": 0
+}, {
+    "id": "605094e2f87cab00016b26dc",
+    "name": "Monaco",
+    "slug": "monaco",
+    "description": "The Principality of Monaco is a tiny microstate on the French Riviera, with the area being 2.1 square kilometers it is the second smallest sovereign state in the world. Stroll across the nation and enjoy architecture from the 13th century blend with luxurious modern design, attractions like the Prince's Palace, the Monte-Carlo casino and the Princess Grace Rose Garden, named after Grace Kelly.",
+    "url": "/maps/monaco",
+    "playUrl": "/monaco/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/3360a9d09c18a8371c6c9abed5926d0a.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 43.760313896710386,
+            "lng": 7.400321960449219
+        },
+        "max": {
+            "lat": 43.714908930257025,
+            "lng": 7.441520690917969
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "1000+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-30T10:26:45.6920000Z",
+    "numFinishedGames": 56408,
+    "likedByUser": null,
+    "averageScore": 19597,
+    "avatar": {
+        "background": "evening",
+        "decoration": "palmtrees",
+        "ground": "green",
+        "landscape": "forest"
+    },
+    "difficulty": "EASY",
+    "difficultyLevel": 2,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 6037,
+    "likes": 415,
+    "locationSelectionMode": 0
+}, {
+    "id": "6023c7f46161f60001fb8791",
+    "name": "Sri Lanka",
+    "slug": "sri-lanka",
+    "description": "Do you have the guts to climb the Ambuluwawa Tower? This 48 meters tall cone-shaped tower is truly unique. If you do not feel like an adventure Sri Lanka offers not only beautiful beaches but also exciting wildlife. Did you know this Island have the biggest concentration of leopards in the wild? Grab a cup of Ceylon tea and start exploring!",
+    "url": "/maps/sri-lanka",
+    "playUrl": "/sri-lanka/play",
+    "published": true,
+    "banned": false,
+    "images": {
+        "backgroundLarge": "map/ff278d6e7c6a02ee7261fa439332a2c5.jpg",
+        "incomplete": false
+    },
+    "bounds": {
+        "min": {
+            "lat": 10.264425397216867,
+            "lng": 78.75
+        },
+        "max": {
+            "lat": 5.338986138780346,
+            "lng": 82.79296875
+        }
+    },
+    "customCoordinates": null,
+    "coordinateCount": "50K+",
+    "regions": null,
+    "creator": null,
+    "createdAt": "0001-01-01T00:00:00.0000000Z",
+    "updatedAt": "2022-08-17T06:13:38.4000000Z",
+    "numFinishedGames": 26373,
+    "likedByUser": null,
+    "averageScore": 9524,
+    "avatar": {
+        "background": "night",
+        "decoration": "tractor",
+        "ground": "green",
+        "landscape": "houses"
+    },
+    "difficulty": "HARD",
+    "difficultyLevel": 4,
+    "highscore": null,
+    "isUserMap": false,
+    "highlighted": false,
+    "free": false,
+    "panoramaProvider": "StreetView",
+    "inExplorerMode": true,
+    "maxErrorDistance": 705836,
+    "likes": 380,
+    "locationSelectionMode": 0
+}]
